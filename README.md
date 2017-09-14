@@ -1,3 +1,5 @@
 # python
 
-Welcome to my python class!
+Welcome to my Python class!
+
+Web scraping
