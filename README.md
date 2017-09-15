@@ -1,4 +1,4 @@
-# python
+# Python
 
 Welcome to my Python class!
 
